@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("勿忘国耻，振兴中华！");
+        System.out.println("push test");
     }
 }
